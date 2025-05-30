@@ -1,4 +1,4 @@
-Introduction)
+Introduction:
 
 
 This report encompasses the findings of the Principal Component Analysis(PCA) of the pop-music
