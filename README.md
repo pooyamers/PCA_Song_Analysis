@@ -1,4 +1,4 @@
-1 Introduction
+Introduction)
 This report encompasses the findings of the Principal Component Analysis(PCA) of the pop-music
 landscape, using the ’popmusic.csv’ dataset.
 In the dataset, there are 833 songs in total, from 17 different artists. The scope of this report is the
